@@ -20,8 +20,9 @@ I'm a passionate data analyst. I love finding patterns and helping organizations
 
 ## 📬 Get in Touch
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/varshakuruva/)
-- Tableau: [Your Website](https://public.tableau.com/app/profile/varsha.kuruva/vizzes)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/varshakuruva/)
+- Tableau: [Website](https://public.tableau.com/app/profile/varsha.kuruva/vizzes)
+- Email: [varshaakuruva@gmail.com](mailto:varshaakuruva@gmail.com)
 
 ## 📊 Data Analysis Tools
 
