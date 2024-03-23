@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Varsha Kuruva 👋
-
-I'm a passionate data analyst. I love finding patterns and helping organizations grow through my insights !
-
+I'm an enthusiastic data analyst dedicated to uncovering trends and driving organizational growth with my insights. 
+My portfolio demonstrates my proficiency across multiple programming languages and data science methodologies.
 ## 📬 Get in Touch
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/varshakuruva/)
