@@ -19,7 +19,7 @@ I'm an enthusiastic data analyst dedicated to uncovering trends and driving orga
 My portfolio demonstrates my proficiency across multiple programming languages and data science methodologies.
 ## 📬 Get in Touch
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/varshakuruva/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/varsha-kuruva/)
 - Tableau: [Website](https://public.tableau.com/app/profile/varsha.kuruva/vizzes)
 - Email: [varshaakuruva@gmail.com](mailto:varshaakuruva@gmail.com)
 
